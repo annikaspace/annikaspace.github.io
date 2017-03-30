@@ -1,0 +1,225 @@
+﻿*{
+	margin: 0;
+	padding:0;
+	border: 0;
+}
+h1{
+	text-align: center;
+	font-size: 1000%;
+	color:#FFFFFF;
+	text-transform: uppercase;
+	text-spacing: 1%;
+	margin: 25% 0;
+	margin-top:7%;
+	
+}
+h2{
+	text-align: center;
+	font-size: 275%;
+	text-transform: uppercase;
+	text-spacing: 14;
+
+}
+h3{
+	text-align: center;
+	font-size: 275%;
+	text-transform: uppercase;
+	text-spacing: 14;
+	padding-bottom:4%;
+}
+
+.parallaxsakums{
+	background: url("./bildes/foni/fonsfons.jpg")fixed 100%;
+	height:100%;
+	
+}
+.parallax-innersakums{
+	padding-top:18%;
+	padding-bottom:18%;
+}
+.parallaxvidus{
+	background: url("./bildes/foni/fonsfons3.jpg")fixed 100%;
+	height:100%;
+	
+}
+.parallax-innervidus{
+	padding-top:18%;
+	padding-bottom:18%;
+}
+.parallaxbeigas{
+	background: url("./bildes/foni/fonsfons3.jpg")fixed 100%;
+	height:100%;
+	
+}
+.parallax-innerbeigas{
+	padding-top:18%;
+	padding-bottom:18%;
+}
+.navigacija{
+	background: url("./bildes/foni/navnav4.jpg")no-repeat fixed;
+	height:100%;
+	width:50%;
+	position: absolute;
+	top:100%;
+}
+.navigacija2{
+	background: url("./bildes/foni/navnav4.jpg")no-repeat fixed;
+	height:100%;
+	width:50%;
+	position: absolute;
+	top:200%;
+}
+ul{
+	margin-top:15%;
+}
+li{
+    list-style-type: none;
+	font-size:25px;
+	color:#FFFFFF;
+	padding-top:1%;
+	padding-bottom:15;
+	padding-left:1%;
+	font-family:arial;
+}
+.tekstazona{
+	max-width:1200px;
+	max-height:800px;
+	position:absolute;
+	left:350px;
+	top:107%;
+	font-size:25px;
+	color:#FFFFFF;
+	padding:1%;
+}
+.galerijaszona{
+	max-width:1400px;
+	max-height:800px;
+	position:absolute;
+	left:350px;
+	top:207%;
+	font-size:25px;
+	color:#FFFFFF;
+	padding:1%;
+}
+.galerijaszona h3{
+	position:relative;
+	left:8%;
+}
+.g14, .g15, .g16,.g17{
+	margin-top:20px;
+	width:1200px;
+	height:800px;
+	padding-left:30px;
+	padding-right:30px;
+	padding-top:10px;
+}
+.img1, .img2, .img3, .img4 {
+    border: 1px solid #ccc;
+    float: left;
+	margin:0.9%;
+}
+.img1:hover, .img2:hover, .img3:hover, .img4:hover{
+    border: 1px solid black;
+}
+.parmani img{
+	position:absolute;
+	left:110%;
+	top:10%;
+}
+.parmani h2{
+	text-align:left;
+}
+.skolas{
+	margin-top:0;
+}
+.skolas1{
+	list-style-type:none;
+	color:black;
+	font-size:25px;
+	padding:1px;
+	padding-left:1%;
+	color:#FFFFFF;
+}
+.gramatas a:link{
+	color:#FFFFFF;
+	font-size:40px;
+	
+}
+.gramatas a:visited{
+	color:#FFFFFF;
+}
+.gramatas a:hover{
+	color:#4d8989;
+}
+.muzika a:link{
+	color:#FFFFFF;
+	font-size:32px;
+}
+.muzika a:visited{
+	color:#FFFFFF;
+}
+.muzika a:hover{
+	color:#4d8989;
+}
+.dzeja a:link{
+	color:#FFFFFF;
+	font-size:32px;
+}
+.dzeja a:visited{
+	color:#FFFFFF;
+}
+.dzeja a:hover{
+	color:#4d8989;
+}
+.soctikli p{
+	font-size:40px;
+}
+.soctikli a:link{
+	color:#FFFFFF;
+	font-size:32px;
+}
+.soctikli a:visited{
+	color:#FFFFFF;
+}
+.soctikli a:hover{
+	color:#4d8989;
+}
+.harijs1, .buda1 , .ed1 ,.satans1,.hobits1,.noka1,.piekuns1{
+	position:absolute;
+	top:25%;
+	left:150%;
+}
+.iz1{
+	position:absolute;
+	top:25%;
+	left:300%;
+}
+.iz2{
+	position:absolute;
+	top:25%;
+	left:120%;
+}
+.ke1{
+	position:absolute;
+	top:25%;
+	left:345%;
+}
+.ke2{
+	width:800px;
+	position:absolute;
+	top:25%;
+	left:120%;
+	font-size:30px;
+}
+.ov1{
+	position:absolute;
+	top:25%;
+	left:300%;
+}
+.ov2{
+	width:800px;
+	position:absolute;
+	top:60%;
+	left:120%;
+	font-size:35px;
+}
